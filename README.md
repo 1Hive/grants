@@ -7,6 +7,12 @@ Determining the initial goals/scope for 1Hive and applying to grants that could 
 ## [Issues](https://github.com/1Hive/grants/issues)
 
 This will be where we discuss and curate projects we want to work on.
+- yes = something we want to request grants for
+- maybe = something we're might want to requests grants for
+- no = something we're not going to request grants for
+- under development = something we're actively developing
+
+Note: this is a repo to focus our initiatives around grants funding, so even if we're working on something that doesn't mean that it's ready to be included in a grant app. Rejecting ideas in this repo does not mean rejecting them as a whole. 
 
 <br>
 
