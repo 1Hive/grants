@@ -4,6 +4,18 @@ Determining the initial goals/scope for 1Hive and applying to grants that could 
 
 <br>
 
+## TODO! 
+
+Questions for 1Hive Members:
+- Is this something we would want to work on?
+- Do we agree that these apps are simple and straightforward to develop?
+- What is the expected scope and a reasonable timeline given our resources and other commitments?
+- How much funding should we ask for per milestone, and overall?
+
+Please go through each Issue and share your answers to these questions :)
+
+<br>
+
 ## [Issues](https://github.com/1Hive/grants/issues)
 
 This will be where we discuss and curate projects we want to work on.
