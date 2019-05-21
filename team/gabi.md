@@ -6,14 +6,3 @@ I'm working as a full time contributor on Aragon in the [Aragon Mesh team](https
 
 **Socials**: [GitHub](https://github.com/0xGabi), [Twitter](https://twitter.com/0xGabi)
 
----
-
-### Founding data
-
-**🐝 Commitment**: 5-10hs per week
-
-**🍯 Honey distribution**:
-
-| Payroll | Tasks | Allocations |
-| :------ | :---- | ----------: |
-| 25%     | 60%   |         15% |
