@@ -1,6 +1,5 @@
-# Grants 🍯
-
-Determining the initial goals/scope for 1Hive and applying to grants that could support that. 
+<h1 align='center'>Grants 🍯</h1>
+<p align='center'>Determining the initial goals/scope for 1Hive and applying to grants that could support that</p>
 
 <br>
 
