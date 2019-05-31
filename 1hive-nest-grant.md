@@ -30,8 +30,8 @@ Aragon Apps
 
 Project Demo
 - live DAO demo
-- onboarding website w docs/stuff
-- DAO CLI/web deployment template
+- CLI/web deployment template
+- developer hub with docs and user guides
 
 <br>
 
@@ -44,6 +44,13 @@ Funding:
 Success reward:
 > _Possible incentive rewards for successful completion of the project delivering all the Deliverables on time_
 > **Up to 30,000 ANT, given out when all deliverables are ready.**
+
+Funding: 150k DAI
+- $25k for each Aragon App
+- $25k for the DAO demo, deployment template, and developer hub
+
+Success Reward:
+- $30k ANT
 
 <br>
 
