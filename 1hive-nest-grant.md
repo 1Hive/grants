@@ -6,6 +6,15 @@
 
 > _Description of the problem or a product that could help benefit the ecosystem_
 
+At 1Hive we have been researching and building DAO models for sustainable community driven development of the open source commons. This is no easy task, but we feel like the time has come to make it happen. Our first project is the PROJECT_NAME_TBD suite: an Aragon DAO that combines 5 novel Aragon apps to create a model that is greater than the sum of it's parts.
+
+While this is very exciting, it's only the tip of the iceberg. Most open source software projects want to innovate at the bleeding edge of whatever cool thing they're building. They don't, however, want to reinvent the wheel on governance and fundraising. With this in mind, we are creating the PROJECT_NAME_TBD: a DAO template that will help the open commons thrive.
+
+This will allow open source developers to easily make governance decisions, engage and reward contributors, and provide ongoing sustainable support for their projects. Everything an open source project needs that isn't directly related to the building project itself. This means more time building and less time spent doing everything else. It also means less drama, more engaged users, and sustainable token models to maintain and grow the project.
+
+
+### Notes from the meeting that have yet to be turned into stuff
+
 A package to create an Aragon DAO with the same basic mechanisms that are employed in molochdao. I think this makes an interesting grant proposal, because it does a few things for us and for the wider Aragon ecosystem.
 - Shows the power of the Aragon framework to tackle a specific use case that appears to be top of mind within the Aragon ecosystem. I'm not sure how truthful the statement was, but Ameen said that he tried to figure out how to build Moloch on Aragon and couldn't figure it out. So this project would directly address that criticism.
 - Shows the value of the composability and modularity of Aragon Apps (we are not implementing voting, vault, finance, or token manager, they just are installed.)
