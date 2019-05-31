@@ -62,4 +62,15 @@ Success Reward:
 ## Development timeline
 > _Description of the timeline in which the deliverables should be developed and delivered_
 
+~ 1 month for each app?
+- design draft
+- code draft
+- bug fixes
+- security audit (we're doing these right?)
+
+4-5 months total?
+- some apps will go faster than others, and we can work on the deployment template, dev hub, and docs while we build the apps
+
 <br>
+
+
