@@ -21,6 +21,18 @@ From the 1hive perspective, a "grants" dao template could be used by open source
 
 > _List of items that **must** be delivered in order for this problem to be solved_
 
+Aragon Apps
+- Redemptions
+- Token Request
+- Deposits 
+- Dissent Forwarder
+- Delay Forwarder
+
+Project Demo
+- live DAO demo
+- onboarding website w docs/stuff
+- DAO CLI/web deployment template
+
 <br>
 
 ## Grant size
