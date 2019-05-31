@@ -3,18 +3,6 @@
 
 <br>
 
-## TODO! 
-
-For each item in the [open Issues](https://github.com/1Hive/grants/issues):
-- Is this something we would want to work on?
-- Do we agree that these apps are simple and straightforward to develop?
-- What is the expected scope and a reasonable timeline given our resources and other commitments?
-- How much funding should we ask for per milestone, and overall?
-
-Please weigh in so we can move forward together :)
-
-<br>
-
 ## [Issues](https://github.com/1Hive/grants/issues)
 
 This will be where we discuss and curate projects we want to work on.
