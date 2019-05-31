@@ -21,7 +21,7 @@ From the 1hive perspective, a "grants" dao template could be used by open source
 
 > _List of items that **must** be delivered in order for this problem to be solved_
 
-We are creating this for 1Hive, the Aragon community, and the open source community as a whole. Concretely this looks like:
+We are creating the PROJECT_NAME_TBD for 1Hive, the Aragon community, and the open source community as a whole. Concretely this looks like:
 
 Aragon Apps
 - Redemptions
@@ -35,7 +35,7 @@ Project Demo
 - CLI/web deployment template
 - developer hub with docs and user guides
 
-Creating these things will allow open source projects to empower their communities with Aragon DAOs. Imagine if every open source project could be sustainably funded and governed by a decentralized community. We're building the tools to make that possible.
+Combining these components in a cohesive package will allow open source projects to empower their communities with Aragon DAOs. Imagine if every open source project could be sustainably funded and governed by a decentralized community. We're building the tools to make that possible.
 
 <br>
 
