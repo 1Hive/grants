@@ -74,6 +74,6 @@ Success Reward:
 ## Development timeline
 > _Description of the timeline in which the deliverables should be developed and delivered_
 
-We estimate needing approximate 1 month to deliver each App, though we plan to do some development in parallel, and conduct audits all at once.
+We estimate needing approximate 1 month to deliver each App, though we plan to do some development in parallel, and conduct audits all at once. We expect to be able to deliver everything to main-net in approximately 5 months. 
 
 <br>
