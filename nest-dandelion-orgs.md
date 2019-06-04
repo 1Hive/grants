@@ -27,7 +27,7 @@ Besides being useful as a template, the individual applications can complement o
 - The `Delay` app could be used to implement optimistic operations within an organization, where members can take actions without requiring a vote, but they can be paused by other members, and canceled via a vote. The delay app would also adopt the same interfaces as the voting app so that it will be compatible with `Proposal Agreements`.
 - The `Token Request` application can be used to provide permissioned fundraising capabilities.
 - The `Redemptions` app establishes "exit rights" and enables organization's tokens to have a clear baseline valuation based on a claim on the organizations underlying liquid assets.
-- The `Dissent Oracle` could provide better voting incentives particularly particularly when combined with an application like `Redemptions` or Aragon Black's upcoming `Fundraising` application which guarantee some sort of exit.   
+- The `Dissent Oracle` could provide better voting incentives particularly when combined with an application like `Redemptions` or Aragon Black's upcoming `Fundraising` application which guarantee some sort of exit.   
 
 Beyond simply extending the library of Aragon apps, this proposal intends to highlight the **value** and **network effect** associated with a modular and composable platform like Aragon.
 
