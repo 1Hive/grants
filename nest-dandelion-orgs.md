@@ -1,6 +1,7 @@
-<img align="right" src="https://github.com/1Hive/website/blob/master/website/static/img/bee.png" height="80px" />
 
-# Aragon Nest Proposal: Dandelion Orgs 🌼 
+# Aragon Nest Proposal: Dandelion Orgs 🌼 <img align="right" src="https://github.com/1Hive/website/blob/master/website/static/img/bee.png" height="80px" />
+
+<br>
 
 ## Abstract
 
