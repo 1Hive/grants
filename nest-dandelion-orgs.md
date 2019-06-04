@@ -13,7 +13,7 @@ However, we have been disappointed to see promising projects like [Moloch](https
 
 We propose breaking the monolithic Moloch concept into the following modular Aragon apps:
 
-- **Redemptions**: Allows users to manage a list of eligible assets held within an organizations `Vault` and allow members of the organization to redeem organization token in exchange for a proportional amount of the eligible assets.
+- **Redemptions**: Allows users to manage a list of eligible assets held within an organizations `Vault` and allow members of the organization to redeem (burn) organization token in exchange for a proportional amount of the eligible assets.
 - **Token Request**: Allows users to propose minting tokens in exchange for a payment to the organization, subject to the approval of existing members.
 - **Lock**: Allows an organization to require users to lock a configure amount of tokens for a configurable amount of time in order to forward an intent.
 - **Delay**: Allows an organization to require a configurable delay before an action may be executed.
