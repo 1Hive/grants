@@ -17,7 +17,7 @@ We propose breaking the monolithic Moloch concept into the following modular Ara
 - **Token Request**: Allows users to propose minting tokens in exchange for a payment to the organization, subject to the approval of existing members.
 - **Lock**: Allows an organization to require users to lock a configure amount of tokens for a configurable amount of time in order to forward an intent.
 - **Delay**: Allows an organization to require a configurable delay before an action may be executed.
-- **Dissent Oracle**: Enhances the voting app to implement an [ACL Oracle](https://hack.aragon.org/docs/acl_IACLOracle) which allows an organization to configure permissions that restrict actions to only members which have recently voted `No`.  
+- **Dissent Oracle**: Enhances the voting app to implement an [ACL Oracle](https://hack.aragon.org/docs/acl_IACLOracle) which allows an organization to configure permissions that restrict actions to only members which have recently voted `Yes`.  
 
 These applications can be combined with the existing `Vault`, `Finance`, and `Token Manager` apps to create an organization template based on the fundamental mechanism and game theory used in Moloch. But unlike Moloch, this organization could easily be extended by incorporating the task management and issue prioritization capability of Autark's `Projects` and `Dot Voting` apps or implement streaming payments via Aragon One's upcoming `Payroll` app. We call this variation on the Moloch concept, **Dandelion Orgs**, as they can quickly grow by adding members and capital, but in the event of a contentious decision disperse just as rapidly.
 
