@@ -9,7 +9,7 @@
 
 [1Hive](https://1hive.org) is interested in exploring how smart organizations (DAOs) can help open source communities better reward and attract contributors. We believe Aragon is the best platform to build on because of the rich ecosystem of existing applications available to Aragon smart organization.
 
-However, we have been disappointed to see promising projects like [Moloch](https://molochdao.com) choose to build a smart organization from scratch rather than extend the Aragon platform. This decision may have been motivated by a desire to minimize code footprint, or due to a lack of understanding of the aragonOS framework. Whatever the reason, we believe that the specific mechanisms can be built for Aragon, and **making these mechanisms modular and composable results in greater overall value**.
+Recently new governance mechanisms have been experimented with by [Moloch DAO](https://molochdao.com) and its forks in a new, standalone smart contract with some early signs of success, and we believe we can **make these mechanisms even more valuable to users by implementing them as modular and composable Aragon apps.**
 
 We propose breaking the monolithic Moloch concept into the following modular Aragon apps:
 
